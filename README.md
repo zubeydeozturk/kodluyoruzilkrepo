@@ -5,9 +5,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-end kapsamında ilk oluş
 ![Image](resim.png)
 
 ## Installation
-'''
+```
 git clone https://github.com/zubeydeozturk/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 Linux için:
